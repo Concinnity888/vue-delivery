@@ -1,24 +1,20 @@
 # vue-delivery
 
-## Project setup
-```
-npm install
-```
+Демо для знакомства с API (yandex API - suggest).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Используемые технологии**
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Vue CLI
+- Vue.js
+- Vuex
+- Yandex Map
 
-### Lints and fixes files
-```
-npm run lint
-```
+**Запуск приложения**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Чтобы развернуть проект, требуется:
+
+- Клонировать репозиторий
+- Зайти в папку с проектом
+- Установить зависимости `npm i`
+- Запустить скрипт `npm run serve`
+- Открыть [http://localhost:8080](http://localhost:8080) в браузере
